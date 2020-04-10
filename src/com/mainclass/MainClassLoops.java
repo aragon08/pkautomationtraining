@@ -61,10 +61,13 @@ public class MainClassLoops {
 //			System.out.println("The value for var 2 is: "+ (increment2 =+ 3));
 //		}
 		
-		String nombre = "Carlos Aragon";
-		for(int i = 0; i< nombre.length(); i++) {
-			System.out.println("La posicion de i = "+ i +"La letra en esta posición es "+ nombre.charAt(i));
-		}
+//		String nombre = "Carlos Aragon";
+//		String nombreInverso = "";
+//		for(int i = 0; i< nombre.length(); i++) {
+////			System.out.println("La posicion de i = "+ i +"La letra en esta posición es "+ nombre.charAt(i));
+//			nombreInverso = nombreInverso + nombre.charAt(i);
+//		}
+//		System.out.println(nombreInverso);
 	}
 
 }
