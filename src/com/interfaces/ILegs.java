@@ -6,5 +6,7 @@ public interface ILegs {
 	public boolean run();
 	public double getRunSpeed();
 	public void setRunSpeed(double speed);
+
 	
+
 }

@@ -2,7 +2,9 @@ package com.mainclass;
 
 public class MainClassLoops {
 
+
 	public static void main(String[] args) {
+
 		/*
 		 * While
 		 * 
@@ -10,6 +12,7 @@ public class MainClassLoops {
 		 * 
 		 * For
 		 * 
+<<<<<<< HEAD
 		 * for mejorado
 		 */
 		
@@ -68,6 +71,7 @@ public class MainClassLoops {
 //			nombreInverso = nombreInverso + nombre.charAt(i);
 //		}
 //		System.out.println(nombreInverso);
+
 	}
 
 }

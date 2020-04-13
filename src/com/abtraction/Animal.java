@@ -1,6 +1,7 @@
 package com.abtraction;
 
 public abstract class Animal {
+
 	 
 	public String name;
 	public String sound;
@@ -29,5 +30,7 @@ public abstract class Animal {
 	
 	
 	
-
+	
+	
+	
 }

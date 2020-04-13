@@ -26,4 +26,5 @@ public class Dog extends Animal{
 		return "The dog's owner is: "+owner;
 	}
 
+
 }

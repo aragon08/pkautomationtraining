@@ -2,6 +2,7 @@ package com.animals;
 import com.abtraction.Animal;
 
 
+
 public class Cat extends Animal{
 
 	public Cat(String name) {
@@ -25,5 +26,6 @@ public class Cat extends Animal{
 		return "The cat's owner is: "+catOwner;
 	}
 	
+
 	
 }

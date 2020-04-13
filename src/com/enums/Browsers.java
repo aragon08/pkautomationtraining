@@ -1,8 +1,10 @@
 package com.enums;
 
 public enum Browsers {
+
 	CHROME("Chrome"), FIREFOX("Firefox"), SAFARI("Safari"), 
 	EDGE("Edge"), IE("IE");
+
 	
 	String value;
 	

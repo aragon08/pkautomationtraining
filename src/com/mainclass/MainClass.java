@@ -9,6 +9,7 @@ public class MainClass {
 	
 	public static void main(String[] args) {
 		
+
 		Cat a1 = new Cat("Whyskas");
 		Dog a2 = new Dog("Doky");
 		a1.setSound("meow");
@@ -24,6 +25,7 @@ public class MainClass {
 		a3.setName("I am a big bird");
 		a3.setWingsNumber(2);
 		System.out.println(a3.toString());
+
 	}
 
 }
