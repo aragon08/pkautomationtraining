@@ -27,6 +27,7 @@ public class MainSwitchTasks {
 				day = Days.valueOf(scan.nextLine());
 			}catch(Exception e) {
 				System.out.println(e.getMessage());
+				continue;
 			}
 			if(day.equals(dayYoEat)) {
 				System.out.println("si, como el "+ day.name());
